@@ -7,3 +7,7 @@
 /quotes.json
 /quotes_script.json
 /quotes_scroll.json
+.venv/
+.env/
+venv/
+__pycache__/
